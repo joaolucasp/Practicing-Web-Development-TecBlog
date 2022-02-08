@@ -1,0 +1,143 @@
+/*Limpar formatações*/
+*{
+	margin: 0;
+	padding: 0;
+}
+/*Layout*/
+body{
+    background-color: rgba(238, 238, 238, 0.753);
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 1em;
+}
+#cabecalho{
+    background-color: #f7b600;
+    height: 110px;
+    text-align: center;
+    padding: 15px;
+}
+#area-logo, #area-menu {
+	padding: 10px;
+}
+#area-principal {
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+}
+#area-postagem {
+	width: 660px;
+	float: left;
+}
+#area-lateral {
+	width: 240px;
+	float: right;
+}
+.conteudo-lateral {
+	background: white;
+	padding: 10px;
+	margin-bottom: 20px;
+    border-radius: 8px;
+}
+.postagem-lateral {
+	font-size: 0.9em;
+	padding: 5px;
+	border-bottom: 1px dotted #CCC;
+}
+.postagem{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+    border-radius: 10px;
+}
+.data-postagem {
+	font-size: 0.8em;
+	border-bottom: 1px solid #f4f4f4;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	display: block;
+}
+
+/*Rodapé*/
+#rodape {
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #CCC;
+    border-radius: 8px;
+}
+
+/*Formatações NewLetter*/
+#newletter{
+    text-align: start;
+    color: white;
+    text-shadow: 1px 1px 1px rgb(75, 75, 75);
+    margin: left 10px;
+}
+#caixa1, #caixa2{
+    border: 1px solid gray;
+    border-radius: 3px;
+    font-size: 13px;
+    font-style: italic;
+    width: 180px;
+}
+#enviar{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 3px;
+    background-color: #f7b600;
+    font-weight: bold;
+    width: 50px;
+}
+#horario{
+    float: right;
+    display: inline;
+}
+
+/*Formatação do Menu*/
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: #f7b600;  
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#cabecalho a:link, #cabecalho a:visited {
+	color: #FFF;
+	padding: 8px 12px;
+}
+
+#cabecalho a:hover {
+	color: #f7b600;
+	background: #FFF;
+	text-decoration: none;
+    border-radius: 3px;
+}
+
+/*Formatações em geral*/
+h1 {
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+h2 {
+	color: #f7b600;
+}
+
+h3 {
+	color: #565656;
+	background: #CCC;
+	padding: 5px;
+    border-radius: 4px;
+}
+h4{
+    color: #f7b600;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}
+.branco{
+	color: white;
+}
+
+
