@@ -1,5 +1,5 @@
 # **TecBlog**
-#### **Este repositório contempla o projeto do site TecBlog desenvolvido no curso de Desenvolvimento Web Completo. Para visualização do site, acesse:**  [Tecblog](https://joaolucasp.github.io/Web-development/)
+#### **Este repositório contempla o projeto do site TecBlog desenvolvido no curso de Desenvolvimento Web Completo. Para visualização do site, acesse:**  [Tecblog](https://joaolucasp.github.io/Practicing-Web-Development-TecBlog/)
 
 Recursos utilizados para a construção do projeto
 1. Elementos Flutuantes
